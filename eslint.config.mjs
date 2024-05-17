@@ -10,7 +10,6 @@ export default [
     files: ["src/**/*.js"],
     ignores: ["**/*.config.js", "**/*.config.mjs"],
     rules: {
-      // "no-unused-vars": "warn",
       "prettier/prettier": [
         "error",
         {
